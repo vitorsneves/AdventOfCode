@@ -1,2 +1,2 @@
-﻿AdventOfCode.DayFour.PartOne();
-AdventOfCode.DayFour.PartTwo();
+﻿AdventOfCode.DayFive.PartOne();
+AdventOfCode.DayFive.PartTwo();
